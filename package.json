@@ -1,0 +1,23 @@
+{
+  "name": "@kpds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
+  "devDependencies": {
+    "@kurly/prettier-config": "^0.0.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  },
+  "prettier": "@kurly/prettier-config",
+  "dependencies": {
+    "tsup": "^7.2.0"
+  }
+}
